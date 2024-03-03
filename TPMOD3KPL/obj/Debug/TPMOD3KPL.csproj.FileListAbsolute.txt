@@ -1,0 +1,10 @@
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\bin\Debug\TPMOD3KPL.exe.config
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\bin\Debug\TPMOD3KPL.exe
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\bin\Debug\TPMOD3KPL.pdb
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.csproj.AssemblyReference.cache
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.Form1.resources
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.Properties.Resources.resources
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.csproj.GenerateResource.cache
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.csproj.CoreCompileInputs.cache
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.exe
+C:\Docs\Konstruksi Perangkat Lunak\TPMOD3KPL\TPMOD3KPL\obj\Debug\TPMOD3KPL.pdb
